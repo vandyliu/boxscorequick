@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/boxscorequick/static/css/main.c2b47e8d.chunk.css",
-    "main.js": "/boxscorequick/static/js/main.fedbb3ca.chunk.js",
-    "main.js.map": "/boxscorequick/static/js/main.fedbb3ca.chunk.js.map",
+    "main.js": "/boxscorequick/static/js/main.f12afe0e.chunk.js",
+    "main.js.map": "/boxscorequick/static/js/main.f12afe0e.chunk.js.map",
     "runtime~main.js": "/boxscorequick/static/js/runtime~main.0f967ef8.js",
     "runtime~main.js.map": "/boxscorequick/static/js/runtime~main.0f967ef8.js.map",
     "static/css/2.034e63f8.chunk.css": "/boxscorequick/static/css/2.034e63f8.chunk.css",
     "static/js/2.5017cc12.chunk.js": "/boxscorequick/static/js/2.5017cc12.chunk.js",
     "static/js/2.5017cc12.chunk.js.map": "/boxscorequick/static/js/2.5017cc12.chunk.js.map",
     "index.html": "/boxscorequick/index.html",
-    "precache-manifest.f857d884451a623e6f19fc53768353ef.js": "/boxscorequick/precache-manifest.f857d884451a623e6f19fc53768353ef.js",
+    "precache-manifest.6e7a95665f26efefd077efdde3bc3420.js": "/boxscorequick/precache-manifest.6e7a95665f26efefd077efdde3bc3420.js",
     "service-worker.js": "/boxscorequick/service-worker.js",
     "static/css/2.034e63f8.chunk.css.map": "/boxscorequick/static/css/2.034e63f8.chunk.css.map",
     "static/css/main.c2b47e8d.chunk.css.map": "/boxscorequick/static/css/main.c2b47e8d.chunk.css.map"
