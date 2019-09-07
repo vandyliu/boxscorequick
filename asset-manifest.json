@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/boxscorequick/static/css/main.c2b47e8d.chunk.css",
-    "main.js": "/boxscorequick/static/js/main.6368796c.chunk.js",
-    "main.js.map": "/boxscorequick/static/js/main.6368796c.chunk.js.map",
+    "main.css": "/boxscorequick/static/css/main.fa6322d9.chunk.css",
+    "main.js": "/boxscorequick/static/js/main.51ab9193.chunk.js",
+    "main.js.map": "/boxscorequick/static/js/main.51ab9193.chunk.js.map",
     "runtime~main.js": "/boxscorequick/static/js/runtime~main.0f967ef8.js",
     "runtime~main.js.map": "/boxscorequick/static/js/runtime~main.0f967ef8.js.map",
     "static/css/2.a7ada1c4.chunk.css": "/boxscorequick/static/css/2.a7ada1c4.chunk.css",
-    "static/js/2.052ae2b8.chunk.js": "/boxscorequick/static/js/2.052ae2b8.chunk.js",
-    "static/js/2.052ae2b8.chunk.js.map": "/boxscorequick/static/js/2.052ae2b8.chunk.js.map",
+    "static/js/2.2bc12352.chunk.js": "/boxscorequick/static/js/2.2bc12352.chunk.js",
+    "static/js/2.2bc12352.chunk.js.map": "/boxscorequick/static/js/2.2bc12352.chunk.js.map",
     "index.html": "/boxscorequick/index.html",
-    "precache-manifest.a822864a1cb74f7ed9f0c45bc3e762e2.js": "/boxscorequick/precache-manifest.a822864a1cb74f7ed9f0c45bc3e762e2.js",
+    "precache-manifest.55a02241d94a6d2e48b19d080a5b6632.js": "/boxscorequick/precache-manifest.55a02241d94a6d2e48b19d080a5b6632.js",
     "service-worker.js": "/boxscorequick/service-worker.js",
     "static/css/2.a7ada1c4.chunk.css.map": "/boxscorequick/static/css/2.a7ada1c4.chunk.css.map",
-    "static/css/main.c2b47e8d.chunk.css.map": "/boxscorequick/static/css/main.c2b47e8d.chunk.css.map"
+    "static/css/main.fa6322d9.chunk.css.map": "/boxscorequick/static/css/main.fa6322d9.chunk.css.map"
   }
 }
