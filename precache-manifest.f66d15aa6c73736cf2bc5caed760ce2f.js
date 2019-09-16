@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "93049578d53afbcfe40ca13191d95ad7",
+    "revision": "9c30188bb483fd2f4fc0b69f9aa4d338",
     "url": "/boxscorequick/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/boxscorequick/static/css/2.a7ada1c4.chunk.css"
   },
   {
-    "revision": "d3c5cac104b8aaa69ffc",
+    "revision": "372ae6cab52c12acc653",
     "url": "/boxscorequick/static/css/main.fa6322d9.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/boxscorequick/static/js/2.fe89f9bd.chunk.js"
   },
   {
-    "revision": "d3c5cac104b8aaa69ffc",
-    "url": "/boxscorequick/static/js/main.25930fc9.chunk.js"
+    "revision": "372ae6cab52c12acc653",
+    "url": "/boxscorequick/static/js/main.5e71f4cf.chunk.js"
   },
   {
     "revision": "6fc7fc928ef862791340",

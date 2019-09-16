@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/boxscorequick/static/css/main.fa6322d9.chunk.css",
-    "main.js": "/boxscorequick/static/js/main.25930fc9.chunk.js",
-    "main.js.map": "/boxscorequick/static/js/main.25930fc9.chunk.js.map",
+    "main.js": "/boxscorequick/static/js/main.5e71f4cf.chunk.js",
+    "main.js.map": "/boxscorequick/static/js/main.5e71f4cf.chunk.js.map",
     "runtime~main.js": "/boxscorequick/static/js/runtime~main.0f967ef8.js",
     "runtime~main.js.map": "/boxscorequick/static/js/runtime~main.0f967ef8.js.map",
     "static/css/2.a7ada1c4.chunk.css": "/boxscorequick/static/css/2.a7ada1c4.chunk.css",
     "static/js/2.fe89f9bd.chunk.js": "/boxscorequick/static/js/2.fe89f9bd.chunk.js",
     "static/js/2.fe89f9bd.chunk.js.map": "/boxscorequick/static/js/2.fe89f9bd.chunk.js.map",
     "index.html": "/boxscorequick/index.html",
-    "precache-manifest.3e29a91d911398dc8831c324a29d3176.js": "/boxscorequick/precache-manifest.3e29a91d911398dc8831c324a29d3176.js",
+    "precache-manifest.f66d15aa6c73736cf2bc5caed760ce2f.js": "/boxscorequick/precache-manifest.f66d15aa6c73736cf2bc5caed760ce2f.js",
     "service-worker.js": "/boxscorequick/service-worker.js",
     "static/css/2.a7ada1c4.chunk.css.map": "/boxscorequick/static/css/2.a7ada1c4.chunk.css.map",
     "static/css/main.fa6322d9.chunk.css.map": "/boxscorequick/static/css/main.fa6322d9.chunk.css.map"
